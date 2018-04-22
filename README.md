@@ -32,3 +32,9 @@ This is a device that automatically records its input whenever you pause Ableton
 I recommend putting this device on your master channel.
 
 You can save a file to .aiff .wav and some other formats by pressing the "Save buffer" button after recording a tail. This will open a folder selector window.
+
+# Looper
+
+![alt tag](https://imgur.com/a/Rleg8pC)
+
+This device is a simple yet effective audio effect to easily loop live incoming audio. You can tune recorded buffers up or down by a maximum of two octaves and you can change the speed from +2 (forward playing at double speed) to -2 (double speed playing backwards). You can also select transient mode; this mode will start recording in the buffer whenever a transient is detected. This way fluid re-recordings can happen. This is also interesting when using drumloops 
